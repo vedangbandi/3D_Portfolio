@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          Enthusiastic and detail-oriented Data Science and AI/ML professional
+          with strong skills in Python, Cloud technologies (AWS, Azure and GCP),
+          and Networking. Passionate about applying data-driven approaches to
+          solve real-world problems and eager to contribute to innovative
+          projects. Certified as an Oracle Cloud Infrastructure 2025 Data Science
+          Professional, with proven adaptability, problem-solving mindset, and
+          teamwork skills, focused on delivering impactful technology solutions.
         </p>
       </div>
     </div>

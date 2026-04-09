@@ -1,8 +1,6 @@
 # 3D Portfolio Website
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
-
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+This repository contains the source code for a personal 3D portfolio for Vedang Bandi, built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
 ![Portfolio Preview](public/images/preview1.png)
 
@@ -90,8 +88,8 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd 3d-portfolio
+   git clone https://github.com/vedangbandi/3D_Portfolio.git
+   cd 3D_Portfolio
    ```
 
 2. Install dependencies:

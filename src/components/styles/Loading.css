@@ -327,6 +327,18 @@
   position: relative;
 }
 
+.loading-marquee-track {
+  display: flex;
+  white-space: nowrap;
+  animation: marqueeScroll 12s linear infinite;
+  width: max-content;
+}
+
+@keyframes marqueeScroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
 .loading-marquee span::before {
   content: "";
   width: 20px;
