@@ -2,7 +2,8 @@
 
 This repository contains the source code for a personal 3D portfolio for Vedang Bandi, built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-![Portfolio Preview](public/images/preview1.png)
+<img width="2521" height="1390" alt="image" src="https://github.com/user-attachments/assets/0ebe0315-8448-4311-9d71-db44ad82b125" />
+
 
 ## Table of Contents
 
